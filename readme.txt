@@ -7,5 +7,3 @@ sdfadsfadfdsf
 绿卡的数据分类
 adsfasdfasdfouoiu
 dev -- repair bug
-dev01
-dev02

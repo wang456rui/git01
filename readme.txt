@@ -5,9 +5,6 @@ sdfadsfadfdsf
 呵呵呵
 嘿嘿嘿
 绿卡的数据分类
-<<<<<<< HEAD
 adsfasdfasdfouoiu
-=======
-
 dev -- repair bug
->>>>>>> dev
+
